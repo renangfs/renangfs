@@ -1,4 +1,4 @@
-# Renan-Germano
+# Renan Germano
 <div>
   <a href="https://github.com/renangfs">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=renangfs&show_icons=true&theme=merko" />
