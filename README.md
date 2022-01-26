@@ -8,7 +8,7 @@
   <a href="https://github.com/renangfs">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renangfs&layout=compact&theme=merko" />
   </a>
-</div><br>
+</div><br><hr>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
