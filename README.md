@@ -1,5 +1,4 @@
 <h1>Renan Germano</h1><hr>
-
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521968474254)<hr>
 <div>
   <a href="https://github.com/renangfs">
